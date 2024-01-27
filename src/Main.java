@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ShipCostCalculator {
+public class Main {
     public static void main(String[] args) {
         // Pseudo code:
         // Prompt the user to enter the price of an item
